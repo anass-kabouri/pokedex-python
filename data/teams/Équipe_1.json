@@ -1,0 +1,15 @@
+{
+  "name": "\u00c9quipe 1",
+  "pokemons": [
+    {
+      "id": 2,
+      "name": "Ivysaur",
+      "current_hp": 60
+    },
+    {
+      "id": 3,
+      "name": "Venusaur",
+      "current_hp": 80
+    }
+  ]
+}
